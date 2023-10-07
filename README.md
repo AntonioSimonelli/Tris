@@ -1,7 +1,7 @@
 # Tris
-L'applicazione consente di effettuare il gioco del Tris.
+The application allows you to play the Tic Tac Toe game.
 
-L'implementazione prevede l'uso di un modello geometrico fondato su uno spazio finito sul campo dei numeri interi modulo 3.
+The implementation involves the use of a geometric model based on a finite space on the field of integer numbers modulus 3.
 
 
 https://digilander.libero.it/a.simonelli/matematicadiscreta/ModelloTris.html
